@@ -1,0 +1,29 @@
+For compiling:
+$cd bloxorz-game
+$make
+
+Controls:
+W				- Camera Moves Forward
+A				- Camera Moves Left
+S				- Camera Moves Backward
+D				- Camera Moves Right
+Z				- Camera Moves Up
+X				- Camera Moves Down
+UP				- Block falls Forward
+DOWN				- Block falls Backward
+LEFT				- Block falls Left
+RIGHT				- Block falls Right
+T				- Top View
+B				- Block View
+J				- Follow cam View
+N				- Tower View
+	
+LeftClick+Drag (Horizontally)	- Helicopter View (move the camera around)
+ScrollUP			- Zoom IN
+ScrollDown			- Zoom OUT
+RightClick			- Toggle through all Views in a sequence at each click
+
+Done by Tarun Gavara, 201501147 as part of Graphics Assignment-2.
+
+
+
